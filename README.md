@@ -1,5 +1,5 @@
 # Pachuca
-Bienvenido (a). Toda la comunidad emprendedora de Pachuca nos estamos uniendo para fortalecer el ecosistema de innovación de la ciudad. Actualmente estamos desarrollando los marcos educativos, legales y financieros necesarios en cada una de las estapas del proceso para innovar y emprender.
+Bienvenido (a). Toda la comunidad emprendedora de Pachuca nos estamos uniendo para fortalecer el ecosistema de innovación de la ciudad. Actualmente estamos desarrollando los marcos educativos, legales y financieros necesarios en cada una de las etapas del proceso para innovar y emprender.
 
 Todo lo que aquí se propone, discute y se asume como veradero, está abierto siempre a nuevos puntos de vista y mejores propuestas de cualquier ciudadano de Pachuca.
 
