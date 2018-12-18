@@ -18,7 +18,7 @@ Apellido, Nombre, email
 
 Apellido, Nombre, email
 
-### Situación actual de Hermosillo
+### Situación actual de Pachuca
 
 
 ## Plan de trabajo
